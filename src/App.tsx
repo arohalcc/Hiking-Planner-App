@@ -844,6 +844,7 @@ function App() {
           </div>
           <div className="border-t border-emerald-700 mt-8 pt-8 text-center text-emerald-200">
             <p>&copy; 2025 Waitākere Ranges Hiking Guide. For informational purposes only.</p>
+            <p>&copy; For comment and feedback please email: Waitakere@aroha.biz</p>
           </div>
         </div>
       </footer>
